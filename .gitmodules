@@ -1,0 +1,3 @@
+[submodule "data/dashing"]
+	path = data/dashing
+	url = git@github.com:aphexmunky/dashing-base.git
